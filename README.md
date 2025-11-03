@@ -1,1 +1,8 @@
-# CC-2026-application-development-sprint-1
+﻿# Application Development
+
+**Ciclo:** sprint-1  
+**Semestre:** semestre:s3  
+**Ano:** 2026  
+
+> Repositorio publico criado para a disciplina **Application Development** no contexto do ciclo **sprint-1** (FIAP 2026).
+
